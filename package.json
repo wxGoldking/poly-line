@@ -1,14 +1,26 @@
 {
-  "name": "ployline",
+  "name": "polylines",
   "version": "1.0.0",
-  "description": "ployline chart",
+  "description": "A simple canvas drawing line drawing plug-in",
   "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wxGoldking/poly-line.git"
+  },
   "keywords": [
+    "simple",
     "polyline"
   ],
-  "author": "wangxin",
-  "license": "ISC"
+  "author": "wxGoldking",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wxGoldking/poly-line/issues"
+  },
+  "homepage": "https://github.com/wxGoldking/poly-line#readme"
 }

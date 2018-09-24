@@ -309,7 +309,7 @@ class PolyLine {
   }
 
 }
-module.exports = {
+window.polyLine = {
   init(element){
     return new PolyLine(element);
   }
