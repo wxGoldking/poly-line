@@ -7,7 +7,7 @@ A simple canvas drawing line drawing plug-in
 npm install polylines
 # usage
 <div style="width:600px;height:400px" id='chart'></div>
-···
+```
 const polyLine = require('polylines') 
 
   
@@ -22,4 +22,4 @@ chart.setOption({
         speed: 30
        }
     })
-···
+```
